@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+Name=FaceDetection
+Exec=bash /media/patient/02/NN/face_detection/FaceDetection.sh
+Comment=FaceDetection
+Icon=/media/patient/02/NN/face_detection/images.png
